@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "ackasian",
+	"version": "${version}",
+	"name": "AckAsian",
+	"description": "Implémentez le menu d'AckAsian dans vos parties!",
+	"authors": [
+		"EmpereurLeon"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/ackasian/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.empereurleon.ackasian.AckAsian"
+		],
+		"fabric-datagen": [
+			"net.empereurleon.ackasian.AckAsianDataGenerator"
+		],
+		"client": [
+			"net.empereurleon.ackasian.AckAsianClient"
+		]
+	},
+	"mixins": [
+		"ackasian.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.3",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
