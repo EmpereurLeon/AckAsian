@@ -1,0 +1,23 @@
+{
+  "item.ackasian.banh_mi": "Bánh mì",
+  "item.ackasian.rice_seeds": "Rice seeds",
+  "item.ackasian.rice": "Rice",
+  "item.ackasian.rice_noodles": "Rice noodles",
+  "item.ackasian.bowl_of_uncooked_rice_noodles": "Bowl of uncooked rice noodles",
+  "item.ackasian.bowl_of_cooked_rice_noodles": "Bowl of cooked rice noodles",
+  "item.ackasian.bowl_of_uncooked_rice": "Bowl of uncooked rice",
+  "item.ackasian.bowl_of_cooked_rice": "Bowl of cooked rice",
+  "item.ackasian.flour": "Flour",
+  "item.ackasian.dough": "Dough",
+  "item.ackasian.noodles": "Noodles",
+  "item.ackasian.bowl_of_uncooked_noodles": "Bowl of uncooked noodles",
+  "item.ackasian.bowl_of_cooked_noodles": "Bowl of cooked noodles",
+  "item.ackasian.samosa": "Samosa",
+  "item.ackasian.spring_rolls": "Spring rolls",
+  "item.ackasian.bo_bun": "Bò bún",
+  "item.ackasian.coconut_chicken_curry": "Coconut chicken curry",
+  "item.ackasian.fried_rice": "Fried rice",
+  "item.ackasian.pad_thai": "Pad Thai",
+
+  "itemgroup.ackasian.ack_asian_items": "Ack Asian Items"
+}

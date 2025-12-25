@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:cooked_beef",
+    "ackasian:bowl_of_cooked_rice_noodles",
+    "ackasian:spring_rolls",
+    "minecraft:pumpkin_seeds",
+    "minecraft:carrot",
+    "minecraft:beetroot",
+    "minecraft:nether_wart",
+    "minecraft:short_grass",
+    "minecraft:ghast_tear"
+  ],
+  "result": {
+    "id": "ackasian:bo_bun",
+    "count": 1
+  }
+}

@@ -1,5 +1,9 @@
 package net.empereurleon.ackasian;
 
+import net.empereurleon.ackasian.block.AckAsianBlocks;
+import net.empereurleon.ackasian.item.AckAsianItemGroups;
+import net.empereurleon.ackasian.item.AckAsianItems;
+import net.empereurleon.ackasian.util.AckAsianLootTableModifiers;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,5 +15,9 @@ public class AckAsian implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		AckAsianItemGroups.registerItemGroups();
+		AckAsianItems.registerItems();
+		AckAsianBlocks.registerAckAsianBlocks();
+		AckAsianLootTableModifiers.modifyLootTables();
 	}
 }

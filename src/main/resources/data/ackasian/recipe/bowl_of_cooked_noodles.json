@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": "ackasian:bowl_of_uncooked_noodles",
+  "result": {
+    "id": "ackasian:bowl_of_cooked_noodles"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

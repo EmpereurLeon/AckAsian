@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": "ackasian:bowl_of_uncooked_rice",
+  "result": {
+    "id": "ackasian:bowl_of_cooked_rice"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

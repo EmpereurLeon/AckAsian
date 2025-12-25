@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "ackasian:rice",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "ackasian:bowl_of_uncooked_rice",
+    "count": 1
+  }
+}

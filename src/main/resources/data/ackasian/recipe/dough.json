@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:water_bucket",
+    "ackasian:flour"
+  ],
+  "result": {
+    "id": "ackasian:dough",
+    "count": 1
+  }
+}

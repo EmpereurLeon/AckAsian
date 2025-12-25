@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
 	"id": "ackasian",
-	"version": "${version}",
+	"version": "0.0.1",
 	"name": "AckAsian",
-	"description": "Implémentez le menu d'AckAsian dans vos parties!",
+	"description": "Add the menu of AckAsian into your game !",
 	"authors": [
 		"EmpereurLeon"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/project/ackasian/settings",
+		"sources": "https://github.com/EmpereurLeon/AckAsian"
 	},
 	"license": "MIT",
 	"icon": "assets/ackasian/icon.png",

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "ackasian:bowl_of_cooked_noodles",
+    "minecraft:nether_wart",
+    "minecraft:sugar",
+    "minecraft:rabbit_foot",
+    "#minecraft:eggs",
+    "minecraft:cooked_porkchop",
+    "minecraft:carrot",
+    "minecraft:beetroot",
+    "minecraft:short_grass"
+  ],
+  "result": {
+    "id": "ackasian:pad_thai",
+    "count": 1
+  }
+}

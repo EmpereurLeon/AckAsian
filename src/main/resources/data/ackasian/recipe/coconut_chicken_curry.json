@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:cooked_chicken",
+    "minecraft:nether_wart",
+    "minecraft:magma_cream",
+    "ackasian:bowl_of_cooked_rice",
+    "minecraft:baked_potato",
+    "minecraft:short_grass",
+    "minecraft:beetroot"
+  ],
+  "result": {
+    "id": "ackasian:coconut_chicken_curry",
+    "count": 1
+  }
+}

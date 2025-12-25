@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "ackasian:noodles",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "ackasian:bowl_of_uncooked_noodles",
+    "count": 1
+  }
+}

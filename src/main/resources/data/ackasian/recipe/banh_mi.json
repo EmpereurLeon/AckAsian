@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:carrot",
+    "minecraft:cooked_porkchop",
+    "minecraft:short_grass",
+    "minecraft:bread"
+  ],
+  "result": {
+    "id": "ackasian:banh_mi"
+  }
+}

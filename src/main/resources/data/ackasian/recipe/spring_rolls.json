@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:baked_potato",
+    "minecraft:carrot",
+    "minecraft:beetroot",
+    "minecraft:cooked_porkchop",
+    "ackasian:dough"
+  ],
+  "result": {
+    "id": "ackasian:spring_rolls",
+    "count": 3
+  }
+}

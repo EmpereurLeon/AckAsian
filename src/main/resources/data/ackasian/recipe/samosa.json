@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:short_grass",
+    "minecraft:baked_potato",
+    "minecraft:carrot",
+    "minecraft:beetroot",
+    "minecraft:cooked_chicken",
+    "ackasian:dough"
+  ],
+  "result": {
+    "id": "ackasian:samosa",
+    "count": 3
+  }
+}
